@@ -19,7 +19,6 @@ for city in list_of_cities:
 	x  = x.replace(" ","")
 	html_city_tags.append(x)
 
-
 keys = []
 data = {}
 l =[]
